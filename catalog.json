@@ -2,7 +2,7 @@
 	"projectName":"MySmartThingy",
 	"lastUpdate":"2020-03-30 12:58",
 	"broker":{
-		"IP":"mqtt.eclipse.org",
+		"IP":"test.mosquitto.org",
 		"port":1883
 	},
 	"devicesList":[
